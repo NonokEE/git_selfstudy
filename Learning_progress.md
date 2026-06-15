@@ -96,10 +96,11 @@
 - 비고: git config --list로 환경 확인. config 레벨(system/global/local) 우선순위 이해. 같은 항목이 두 레벨에 있을 때 local이 우선 적용됨을 확인
 
 ### Git 초기 설정
-- 상태: 시작 전
-- 이론 완료일: 
-- 실습 완료일: 
-- 관련 커밋/PR/폴더: 
+- 상태: 완료
+- 이론 완료일: 2026-06-15
+- 실습 완료일: 2026-06-15
+- 관련 커밋/PR/폴더: git-intro/git-config.md
+- 비고: user.name/email/init.defaultBranch/core.autocrlf 설정 완료. Windows 환경이므로 autocrlf=true 적용. core.editor=code --wait 설정 확인
 
 ### 저장소(repository)의 개념
 - 상태: 시작 전

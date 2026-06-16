@@ -110,10 +110,11 @@
 - 비고: Working Directory → Staging Area → Repository 세 가지 영역 흐름 체험. git init 시 .git 폴더 생성 확인. 서브모듈 문제 경험 및 해결
 
 ### Git 작업 흐름 개요
-- 상태: 시작 전
-- 이론 완료일: 
-- 실습 완료일: 
-- 관련 커밋/PR/폴더: 
+- 상태: 완료
+- 이론 완료일: 2026-06-16
+- 실습 완료일: 2026-06-16
+- 관련 커밋/PR/폴더: git-workflow/workflow-log.md
+- 비고: pull→add→commit→push 전체 사이클 체험. commit 후 "ahead of origin/main by 1 commit" 메시지 직접 확인. 각 단계 터미널 출력 메시지가 곧 결과임을 인지
 
 ### 첫 Git 저장소 만들기
 - 상태: 시작 전

@@ -103,10 +103,11 @@
 - 비고: user.name/email/init.defaultBranch/core.autocrlf 설정 완료. Windows 환경이므로 autocrlf=true 적용. core.editor=code --wait 설정 확인
 
 ### 저장소(repository)의 개념
-- 상태: 시작 전
-- 이론 완료일: 
-- 실습 완료일: 
-- 관련 커밋/PR/폴더: 
+- 상태: 완료
+- 이론 완료일: 2026-06-16
+- 실습 완료일: 2026-06-16
+- 관련 커밋/PR/폴더: git-repo-concept/repo-concept.md
+- 비고: Working Directory → Staging Area → Repository 세 가지 영역 흐름 체험. git init 시 .git 폴더 생성 확인. 서브모듈 문제 경험 및 해결
 
 ### Git 작업 흐름 개요
 - 상태: 시작 전

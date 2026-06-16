@@ -124,10 +124,11 @@
 - 비고: git init → remote add → push -u 전체 흐름 체험. -u 옵션으로 upstream 설정 확인. git remote add는 성공 시 출력 없음 확인
 
 ### 파일 상태 이해
-- 상태: 시작 전
-- 이론 완료일: 
-- 실습 완료일: 
-- 관련 커밋/PR/폴더: 
+- 상태: 완료
+- 이론 완료일: 2026-06-16
+- 실습 완료일: 2026-06-16
+- 관련 커밋/PR/폴더: git-file-status/status-log.md
+- 비고: Untracked→Staged→Unmodified→Modified 4가지 상태 직접 체험. 동일 파일이 Staged+Modified에 동시 표시되는 상황도 재현 성공
 
 ### 기본 명령어 익히기
 - 상태: 시작 전

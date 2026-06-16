@@ -14,7 +14,7 @@ Untracked files:
 ```PowerShell
 ?? git-basic-commands/
 ```
-- 차이점: (직접 작성)
+- 차이점: Untracked = ?? / Staged = A / Modified = M 으로 간단하게 표기
 
 ## git add
 - 특정 파일만 add 후 git status -s 결과:

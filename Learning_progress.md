@@ -117,10 +117,11 @@
 - 비고: pull→add→commit→push 전체 사이클 체험. commit 후 "ahead of origin/main by 1 commit" 메시지 직접 확인. 각 단계 터미널 출력 메시지가 곧 결과임을 인지
 
 ### 첫 Git 저장소 만들기
-- 상태: 시작 전
-- 이론 완료일: 
-- 실습 완료일: 
-- 관련 커밋/PR/폴더: 
+- 상태: 완료
+- 이론 완료일: 2026-06-16
+- 실습 완료일: 2026-06-16
+- 관련 커밋/PR/폴더: git-first-repo/first-repo-log.md
+- 비고: git init → remote add → push -u 전체 흐름 체험. -u 옵션으로 upstream 설정 확인. git remote add는 성공 시 출력 없음 확인
 
 ### 파일 상태 이해
 - 상태: 시작 전

@@ -155,10 +155,11 @@
 - 비고: Conventional Commits 스타일(type: 설명) 적용. 하나의 목적 = 하나의 커밋 원칙 체험. project-info.md, todo.md를 각각 별도 커밋으로 분리 성공
 
 ### 여러 파일 추가 및 선택적 스테이징
-- 상태: 시작 전
-- 이론 완료일: 
-- 실습 완료일: 
-- 관련 커밋/PR/폴더: 
+- 상태: 완료
+- 이론 완료일: 2026-06-17
+- 실습 완료일: 2026-06-17
+- 관련 커밋/PR/폴더: git-staging-practice/
+- 비고: git add 파일 단위 선택, git restore --staged로 unstage 체험. git status -su로 untracked 파일 상세 확인 방법 추가 학습
 
 ### 파일 수정 이력 확인
 - 상태: 시작 전

@@ -162,10 +162,11 @@
 - 비고: git add 파일 단위 선택, git restore --staged로 unstage 체험. git status -su로 untracked 파일 상세 확인 방법 추가 학습
 
 ### 파일 수정 이력 확인
-- 상태: 시작 전
-- 이론 완료일: 
-- 실습 완료일: 
-- 관련 커밋/PR/폴더: 
+- 상태: 완료
+- 이론 완료일: 2026-06-22
+- 실습 완료일: 2026-06-22
+- 관련 커밋/PR/폴더: git-log-practice/
+- 비고: git log --, git diff, git diff --staged, git blame 명령어 체험. CLI 출력이 불편할 때 GUI 도구(GitLens 등) 활용 가능함을 인지.
 
 ### 파일 삭제 및 이름 변경 추적
 - 상태: 시작 전

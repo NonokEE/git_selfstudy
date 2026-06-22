@@ -1,2 +1,3 @@
 첫 번째 줄: Git 이력 실습 시작
 두 번째 줄: git log 실습
+세 번째 줄: git blame 실습

@@ -169,10 +169,11 @@
 - 비고: git log --, git diff, git diff --staged, git blame 명령어 체험. CLI 출력이 불편할 때 GUI 도구(GitLens 등) 활용 가능함을 인지.
 
 ### 파일 삭제 및 이름 변경 추적
-- 상태: 시작 전
-- 이론 완료일: 
-- 실습 완료일: 
-- 관련 커밋/PR/폴더: 
+- 상태: 완료
+- 이론 완료일: 2026-06-23
+- 실습 완료일: 2026-06-23
+- 관련 커밋/PR/폴더: git-rm-mv-practice/
+- 비고: git rm / git rm --cached / git mv 세 가지 명령어 체험. --cached 사용 시 D + ?? 동시 표시되는 원리 스스로 분석 성공. untracked 파일은 .gitignore에 등록하여 깔끔하게 마무리.
 
 ### 커밋 기록 조회 심화
 - 상태: 시작 전

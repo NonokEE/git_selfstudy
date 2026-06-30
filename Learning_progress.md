@@ -204,10 +204,13 @@
 - 비고: 패턴 규칙(*, /, !) 학습. --cached로 이미 추적 중인 파일 제외 체험. .gitignore 적용 파일에 -f 강제 추가 vs advice 메시지 비활성화의 차이 자체 분석 성공.
 
 ### 실수 복구 기초
-- 상태: 시작 전
-- 이론 완료일: 
-- 실습 완료일: 
-- 관련 커밋/PR/폴더: 
+- 상태: 완료
+- 이론 완료일: 2026-06-30
+- 실습 완료일: 2026-06-30
+- 관련 커밋/PR/폴더: git-recovery-practice/
+- 비고: git restore / git restore --staged / git commit --amend 체험.
+  이미 커밋된 파일은 restore --staged로 제거 불가 — reset --soft HEAD~1 조합이 필요함을 스스로 분석 성공.
+  amend 후 상위 폴더에서 add 시 empty 커밋 발생 원인도 직접 파악.
 
 ### 브랜치(branch)의 개념
 - 상태: 시작 전

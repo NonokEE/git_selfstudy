@@ -1,1 +1,1 @@
-main과 feature-a 내용을 합쳐서 해결했습니다
+main과 feature-a 내용을 feature-b가 덮어씁니다

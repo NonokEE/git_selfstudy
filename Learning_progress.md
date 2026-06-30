@@ -208,9 +208,10 @@
 - 이론 완료일: 2026-06-30
 - 실습 완료일: 2026-06-30
 - 관련 커밋/PR/폴더: git-recovery-practice/
-- 비고: git restore / git restore --staged / git commit --amend 체험.
-  이미 커밋된 파일은 restore --staged로 제거 불가 — reset --soft HEAD~1 조합이 필요함을 스스로 분석 성공.
-  amend 후 상위 폴더에서 add 시 empty 커밋 발생 원인도 직접 파악.
+- 비고: git restore / git restore --staged / git commit --amend 체험 (1차).
+  git reset --soft / --mixed 보충 학습 (2차).
+  restore --staged + reset --soft = reset --mixed 관계 스스로 도출.
+  --hard는 Git 중급 reset vs revert 단계에서 연계 예정.
 
 ### 브랜치(branch)의 개념
 - 상태: 시작 전

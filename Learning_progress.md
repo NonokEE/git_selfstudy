@@ -2,7 +2,7 @@
 
 ## 기본 정보
 - **학습 주제**: Git & GitHub
-- **학습 순서**: Git -> GitHub
+- **학습 순서**: Git 입문 → Git 초급 → Git 중급 → GitHub 입문 → GitHub 초급 → Git 고급 → GitHub 중급 → GitHub 고급
 - **현재 상태**: 진행 중
 - **학습 시작일**: 2026-06-12
 
@@ -10,11 +10,11 @@
 
 ## 전체 로드맵
 - [x] Git 입문
-- [ ] Git 초급
+- [x] Git 초급
 - [ ] Git 중급
-- [ ] Git 고급
 - [ ] GitHub 입문
 - [ ] GitHub 초급
+- [ ] Git 고급
 - [ ] GitHub 중급
 - [ ] GitHub 고급
 

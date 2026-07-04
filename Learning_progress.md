@@ -262,15 +262,19 @@
 <summary>Git 중급</summary>
 
 #### 저장소 개요
-- 단계 상태: 시작 전
-- 이론 완료: ⬜
-- 실습 완료: ⬜
+- 단계 상태: 진행 중 🔄
+- 이론 완료: 🔄
+- 실습 완료: 🔄
 
 ### 브랜치 전략 기초
-- 상태: 시작 전
-- 이론 완료일: 
-- 실습 완료일: 
-- 관련 커밋/PR/폴더: 
+- 상태: 완료
+- 이론 완료일: 2026-07-04
+- 실습 완료일: 2026-07-04
+- 관련 커밋/PR/폴더: git-branch-strategy/strategy-log.md
+- 비고: GitHub Flow / Git Flow / Trunk-based 3가지 전략 개념 학습.
+  브랜치 네이밍 규칙(feature/, fix/, hotfix/) 적용 체험.
+  feature 브랜치 → main merge 시 fast-forward 발생 원리 스스로 파악.
+  실제 GitHub Flow에서는 PR을 통해 merge하는 것이 정석임을 인지.
 
 ### merge와 rebase의 차이
 - 상태: 시작 전

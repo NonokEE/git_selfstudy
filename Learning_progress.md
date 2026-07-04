@@ -287,10 +287,14 @@
   공유된 브랜치(dev 등) rebase 시 팀원 이력 전체가 꼬이는 원리 자체 분석 성공.
 
 ### rebase 사용법과 주의점
-- 상태: 시작 전
-- 이론 완료일: 
-- 실습 완료일: 
-- 관련 커밋/PR/폴더: 
+- 상태: 완료
+- 이론 완료일: 2026-07-05
+- 실습 완료일: 2026-07-05
+- 관련 커밋/PR/폴더: git-rebase-advanced/rebase-practice.md
+- 비고: main이 앞서간 상황에서 feature 브랜치 rebase 최신화 체험.
+  rebase 후 author date ≠ committer date로 SHA 재생성 직접 확인.
+  push 거부 → --force-with-lease로 안전한 강제 push 체험.
+  merge commit 없는 일직선 이력 완성 확인.
 
 ### cherry-pick의 개념과 활용
 - 상태: 시작 전

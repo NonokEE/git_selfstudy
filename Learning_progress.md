@@ -277,10 +277,14 @@
   실제 GitHub Flow에서는 PR을 통해 merge하는 것이 정석임을 인지.
 
 ### merge와 rebase의 차이
-- 상태: 시작 전
-- 이론 완료일: 
-- 실습 완료일: 
-- 관련 커밋/PR/폴더: 
+- 상태: 완료
+- 이론 완료일: 2026-07-05
+- 실습 완료일: 2026-07-05
+- 관련 커밋/PR/폴더: git-rebase-practice/merge-log.md
+- 비고: merge = 현재 브랜치가 대상 브랜치를 흡수, merge commit 생성.
+  rebase = base를 옮기는 것, 브랜치 합치기 아님 → 이후 ff merge 필요.
+  rebase 후 committer date 변경으로 SHA 재생성 직접 확인.
+  공유된 브랜치(dev 등) rebase 시 팀원 이력 전체가 꼬이는 원리 자체 분석 성공.
 
 ### rebase 사용법과 주의점
 - 상태: 시작 전

@@ -15,3 +15,4 @@
 
 ## main 브랜치 rebase 전 추가 작업
 - rebase 전에 main에도 변경사항 발생
+- rebase 커밋 2번

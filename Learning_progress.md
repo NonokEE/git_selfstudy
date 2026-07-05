@@ -336,10 +336,13 @@
   apply(목록 유지) vs pop(목록 삭제) 차이 체험. -u 옵션으로 untracked 파일 포함 저장 확인.
 
 ### 태그(tag) 관리
-- 상태: 시작 전
-- 이론 완료일: 
-- 실습 완료일: 
-- 관련 커밋/PR/폴더: 
+- 상태: 완료
+- 이론 완료일: 2026-07-06
+- 실습 완료일: 2026-07-06
+- 관련 커밋/PR/폴더: git-tag-practice/
+- 비고: lightweight(이름만) vs annotated(작성자·날짜·메시지 포함) 차이 체험.
+  태그는 git push에 자동 포함 안 됨 → git push origin --tags 별도 필요.
+  태그로 checkout 시 Detached HEAD 발생. 변경사항 없으면 불필요한 커밋 생략.
 
 ### 로그 탐색 심화
 - 상태: 시작 전

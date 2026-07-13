@@ -11,7 +11,7 @@
 ## 전체 로드맵
 - [x] Git 입문
 - [x] Git 초급
-- [ ] Git 중급
+- [x] Git 중급
 - [ ] GitHub 입문
 - [ ] GitHub 초급
 - [ ] Git 고급

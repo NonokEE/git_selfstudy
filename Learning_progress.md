@@ -588,21 +588,27 @@
 <summary>GitHub 초급</summary>
 
 #### 저장소 개요
-- 단계 상태: 시작 전
+- 단계 상태: 진행 중
 - 이론 완료: ⬜
 - 실습 완료: ⬜
 
 ### 브랜치를 활용한 GitHub 작업 흐름
-- 상태: 시작 전
-- 이론 완료일: 
-- 실습 완료일: 
-- 관련 커밋/PR/폴더: 
+- 상태: 완료
+- 이론 완료일: 2026-07-14
+- 실습 완료일: 2026-07-14
+- 관련 커밋/PR/폴더: github-flow-practice/flow-log.md, PR #1
+- 비고: feature 브랜치 생성 → push → PR 생성 전체 사이클 체험.
+  push.autoSetupRemote 설정 시 -u 없이도 upstream 자동 등록됨을 확인.
+  폴더명 오타를 fix 커밋으로 별도 수정하는 습관 적용.
 
 ### Pull Request(PR)의 개념
-- 상태: 시작 전
-- 이론 완료일: 
-- 실습 완료일: 
-- 관련 커밋/PR/폴더: 
+- 상태: 완료
+- 이론 완료일: 2026-07-14
+- 실습 완료일: 2026-07-14
+- 관련 커밋/PR/폴더: PR #1
+- 비고: PR 제목·설명·Label·Assignee 구성 체험.
+  Commits / Files changed 탭으로 PR 구조 직접 확인.
+  merge는 다음 토픽(PR 생성 및 검토 기초)에서 진행 예정.
 
 ### Pull Request 생성 및 검토 기초
 - 상태: 시작 전

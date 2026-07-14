@@ -21,3 +21,6 @@
     (repository설정에서 merge commit 직접 push 못하게 막을 수 있음)
 
 프로젝트를 통제가능한 상태로 관리하는데에 아주 적절한 도구라고 할 수 있다.
+
+## 다음 힉습 예정
+- Pull Request 검토 및 Merge 실습

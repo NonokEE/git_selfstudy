@@ -10,7 +10,7 @@
 ## 코드 예시
 
 ```python
-def clac(a, b, op):
+def calc(a, b, op):
     if op == "add":
         return a + b
     if op == "sub":
